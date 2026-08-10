@@ -13,7 +13,3 @@ resource "azurerm_resource_group" "example" {
   name     = "sandeep-rg"
   location = "West Europe"
 }
-resource "azurerm_resource_group" "example1" {
-  name     = "sandeep-rg1"
-  location = "West Europe"
-}
